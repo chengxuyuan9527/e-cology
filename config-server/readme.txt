@@ -2,3 +2,6 @@
 如spring.cloud.config.server.git.searchPaths=haha,xixi用逗号分隔
 
 
+问题:中文乱码未解决
+
+
