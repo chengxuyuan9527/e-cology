@@ -1,0 +1,2 @@
+可以读取多个配置文件
+bootstrap.propertise文件中配置spring.cloud.config.name用逗号分隔配置文件的名称
